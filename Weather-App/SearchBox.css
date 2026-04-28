@@ -1,0 +1,12 @@
+* {
+    color: white;
+}
+
+.SearchBox {
+    text-align: center;
+}
+
+.alert {
+    display: flex;
+    justify-content: center;
+}
